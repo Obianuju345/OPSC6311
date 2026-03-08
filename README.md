@@ -1,4 +1,4 @@
-# OPSC6311 - Objectives
+# OPSC6311 - Objectives - Features list
 The User LogIn with the Username And Password
 
 - The Adding and Mangement of the expense categories.
